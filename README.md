@@ -1,4 +1,4 @@
-## Olá, pessoal. Sou Javan Girardi, formado em Análise e Desenvolvimento de Sistemas. 👋
+## Olá, pessoal. Me chamo Javan Girardi e sou formado em Análise e Desenvolvimento de Sistemas. 👋
 
 
 - 🔭 Atualmente, trabalho com tecnologia no ramo da Moda, na Audaces, em Floripa.
